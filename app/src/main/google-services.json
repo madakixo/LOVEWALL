@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972216748256",
+    "project_id": "lovewall-f0a36",
+    "storage_bucket": "lovewall-f0a36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972216748256:android:f70f73ac397a744f4b2885",
+        "android_client_info": {
+          "package_name": "com.lovewall.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbtO4myXKUK2HMbyMHwYMFlAIr1AKLP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
